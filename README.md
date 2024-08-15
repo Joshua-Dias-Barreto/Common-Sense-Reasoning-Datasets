@@ -49,8 +49,7 @@
   <summary>Example ⬇️</summary>
   
 ```
-Where would I not want a fox?
-
+Q) Where would I not want a fox?
 a)hen house b)england c)mountains d)english hunt e)california
 
 Answer: a) hen house
@@ -107,8 +106,7 @@ Answer: a) hen house
   <summary>Example ⬇️</summary>
   
 ```
-If you take off my skin, I will not cry, but you will. What ami I?
-
+If you take off my skin, I will not cry, but you will. What am I?
 a)grape b)onion c)package d)plant e)body
 
 Answer: b)onion
@@ -181,7 +179,6 @@ Answer: b)onion
   
 ```
 A bicycle has [MASK] tires.
-
 Answer: 2
 ```
 
@@ -224,11 +221,9 @@ Answer: 2
   
 ```
 Q) Bills are commonly part of birds
-
 A) True
 
 Q) Bills are never part of birds
-
 A) False
 ```
 
@@ -389,11 +384,13 @@ Correct Choice: C) 7 years
 <details>
   <summary>Example ⬇️</summary>
   
+```  
 Obs1: It was a gorgeous day outside.
 Obs2: She asked her neighbor for a jump-start.
 Hyp1: Mary decided to drive to the beach, but her car would not start due to a dead battery.
 Hyp2: It made a weird sound upon starting.
 Correct Choice: Hyp1
+```
 
 </details>
 
